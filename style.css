@@ -40,8 +40,8 @@ button.luxurys{
     color:hsl(179, 100%, 13%);
 }
 .content{
-    width:90%;
-    margin:15% auto;
+    width:375px;
+    margin:70px auto;
 }
 img{
     padding:14% 0 0 15%;
@@ -55,7 +55,7 @@ button{
     background-color: hsl(0, 0%, 95%);
     border: none;
 }
-@media (min-width: 1440px){
+@media (min-width: 1000px){
     .content{
         display: flex;
         justify-content: center;
